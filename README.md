@@ -3,6 +3,7 @@
 
 <h4>現在このソフトウェアでは、足跡の視認性の確認が出来ます。</h4>
 
+## 📷 Screenshot
 ![キャンパス案内を効率よくするプロジェクトで作成したシュミレーションソフトウェア](https://user-images.githubusercontent.com/60394438/101273802-ff912580-37db-11eb-99ef-d4f0fdc11bc2.png)
 ![朝方の様子](https://user-images.githubusercontent.com/60394438/101273808-07e96080-37dc-11eb-9ec3-c23e8327db27.png)
 ![夕方の様子](https://user-images.githubusercontent.com/60394438/101273805-061f9d00-37dc-11eb-9fd2-e5761e312d8d.png)
@@ -20,3 +21,29 @@
 <p align="center">
   <img src="https://〜.jpg" width=40%>
 </p>
+<h4>視点を基準とし、右と奥にタイルをそれぞれ何枚敷き詰めるかをパラメータで指定できます。</h4>
+<br>
+
+<h3 align="center">- 地面の種類を変更できます -</h3>
+
+<p align="center">
+  <img src="https://〜.jpg" width=40%>
+</p>
+<h4>テクスチャを変えることで、様々な場所で視認性のシュミレーションができます。</h4>
+<br>
+
+<h3 align="center">- シュミレーションをして制作費のコスト削減 -</h3>
+
+<p align="center">
+  <img src="https://〜.jpg" width=40%>
+</p>
+<h4>足跡はPNG形式なので、チームのデザイナーが用意してくれた足跡を素早く試せます。またシュミレーションを行うことで実際に作った時のミスマッチを減らせます。</h4>
+<br>
+
+<h3 align="center">- 空間の明暗や足跡のサイズや色を変更できます -</h3>
+
+<p align="center">
+  <img src="https://〜.jpg" width=40%>
+</p>
+<h4>UnityのSkyboxやライトを変更することで、空間の明暗を変える事ができます。また取り込んだ足跡は拡大縮小など変形も可能です。</h4>
+<br>
