@@ -7,10 +7,9 @@
 ![朝方の様子](https://user-images.githubusercontent.com/60394438/101273808-07e96080-37dc-11eb-9ec3-c23e8327db27.png)
 ![夕方の様子](https://user-images.githubusercontent.com/60394438/101273805-061f9d00-37dc-11eb-9fd2-e5761e312d8d.png)
 
-
+## 🛠 Technology
 <p align="center">
-  <p>使用技術</p>
-  <a href="https://unity.com/ja"><img src="https://unity.com/ja" width="80px;" /></a>
+  <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="20%;" /></a>
   <br>
 </p>
 
