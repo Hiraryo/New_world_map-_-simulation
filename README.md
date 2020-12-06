@@ -19,9 +19,9 @@
 <h3 align="center">- 地面生成 -</h3>
 
 <p align="center">
-  <img src="https://〜.jpg" width=40%>
+  <img src="https://user-images.githubusercontent.com/60394438/101275241-80095380-37e7-11eb-98d3-a8fd47c4e317.gif" width=100%>
 </p>
-<h4>視点を基準とし、右と奥にタイルをそれぞれ何枚敷き詰めるかをパラメータで指定できます。</h4>
+<h4>座標(0,0,0)を原点とし、右と奥にタイルをそれぞれ何枚敷き詰めるかをパラメータで指定できます。</h4>
 <br>
 
 <h3 align="center">- 地面の種類を変更できます -</h3>
