@@ -1,4 +1,4 @@
-![キャンパス案内を効率よくするプロジェクトで作成したシュミレーションソフトウェア](https://〜.gif)
+![キャンパス案内を効率よくするプロジェクトで作成したシュミレーションソフトウェア](https://user-images.githubusercontent.com/60394438/101273802-ff912580-37db-11eb-99ef-d4f0fdc11bc2.png)
 
 <h2 align="center">Re:京都産業大学マップ</h2>
 
