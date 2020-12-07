@@ -31,14 +31,21 @@
 
 <h3 align="center">- 風景や明るさも変更できます -</h3>
 
+
+明るい場所にある黄色の足跡の見え方
 <p align="center">
-  明るい場所にある黄色の足跡の見え方
   <img src="https://user-images.githubusercontent.com/60394438/101275562-decfcc80-37e9-11eb-8831-2627eee6d5d0.png" width=100%>
-  暗い場所にある黄色の足跡の見え方
+</p>
+暗い場所にある黄色の足跡の見え方
+<p align="center">
   <img src="https://user-images.githubusercontent.com/60394438/101275560-de373600-37e9-11eb-856b-277df94c6c10.png" width=100%>
-  明るい場所で赤っぽいレンガの地面の上にある赤色の足跡の見え方
+</p>
+明るい場所で赤っぽいレンガの地面の上にある赤色の足跡の見え方
+<p align="center">
   <img src="https://user-images.githubusercontent.com/60394438/101275559-dc6d7280-37e9-11eb-9b38-a9cad05e146f.png" width=100%>
-  暗い場所で赤っぽいレンガの地面の上にある赤色の足跡の見え方
+</p>
+暗い場所で赤っぽいレンガの地面の上にある赤色の足跡の見え方
+<p align="center">
   <img src="https://user-images.githubusercontent.com/60394438/101275554-d7a8be80-37e9-11eb-8f9a-8b1a6f488a09.png" width=100%>
 </p>
 UnityのSkyboxやライトを変更することで、空間の明暗を変える事ができます。また取り込んだ足跡は拡大縮小など変形も可能です。
