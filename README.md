@@ -3,17 +3,6 @@
 
 <h5>足跡の長さは27.0cm、足跡の幅は9.0cmです。
 
-## 📷 Screenshot
-![キャンパス案内を効率よくするプロジェクトで作成したシュミレーションソフトウェア](https://user-images.githubusercontent.com/60394438/101273802-ff912580-37db-11eb-99ef-d4f0fdc11bc2.png)
-![朝方の様子](https://user-images.githubusercontent.com/60394438/101273808-07e96080-37dc-11eb-9ec3-c23e8327db27.png)
-![夕方の様子](https://user-images.githubusercontent.com/60394438/101273805-061f9d00-37dc-11eb-9fd2-e5761e312d8d.png)
-
-## 🛠 Technology
-<p align="center">
-  <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="20%;" /></a>
-  <br>
-</p>
-
 ## 📦 Features
 
 <h3 align="center">- 地面生成 -</h3>
@@ -54,3 +43,14 @@
 </p>
 <h4>UnityのSkyboxやライトを変更することで、空間の明暗を変える事ができます。また取り込んだ足跡は拡大縮小など変形も可能です。</h4>
 <br>
+
+## 📷 Screenshot
+![キャンパス案内を効率よくするプロジェクトで作成したシュミレーションソフトウェア](https://user-images.githubusercontent.com/60394438/101273802-ff912580-37db-11eb-99ef-d4f0fdc11bc2.png)
+![朝方の様子](https://user-images.githubusercontent.com/60394438/101273808-07e96080-37dc-11eb-9ec3-c23e8327db27.png)
+![夕方の様子](https://user-images.githubusercontent.com/60394438/101273805-061f9d00-37dc-11eb-9fd2-e5761e312d8d.png)
+
+## 🛠 Technology
+<p align="center">
+  <a href="https://unity.com/ja"><img src="https://user-images.githubusercontent.com/60394438/101274070-57309080-37de-11eb-9a54-020f94bee1e3.png" width="20%;" /></a>
+  <br>
+</p>
