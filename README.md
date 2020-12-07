@@ -30,8 +30,6 @@
 <br>
 
 <h3 align="center">- 風景や明るさも変更できます -</h3>
-
-
 明るい場所にある黄色の足跡の見え方
 <p align="center">
   <img src="https://user-images.githubusercontent.com/60394438/101275562-decfcc80-37e9-11eb-8831-2627eee6d5d0.png" width=100%>
